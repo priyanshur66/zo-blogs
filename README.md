@@ -6,6 +6,9 @@
 
 zo-blogs revolutionizes content creation by tokenizing every blog post as an ERC-20 token on the Zora Protocol. Writers can publish content that automatically becomes tradeable digital assets, while readers can invest in content they believe in. This creates a new creator economy where quality content generates lasting financial value for both creators and supporters.
 
+## 🛠 Zora Integration Code
+
+Browse this file for helper functions that handle minting, pricing, and trading post-coins via the Zora Protocol. <a href="./src/utils/zora.ts"><code>src/utils/zora.ts</code></a> 
 ## ✨ Key Features
 
 ### 🔗 **Tokenized Content**
